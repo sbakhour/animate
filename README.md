@@ -6,12 +6,16 @@ Upload a photo. Describe what should happen. Get a real, AI-generated cinematic 
 
 ## What it does
 
-You upload a photo and describe what should happen in it — clouds drifting, a camera slowly zooming, light shifting — and Animate generates a real short video from that photo using [Wan 3](https://replicate.com/alibaba/wan-3), a state-of-the-art image-to-video model.
+You upload a photo and describe what should happen in it — clouds drifting, a camera slowly zooming, light shifting — and Animate generates a real short video from that photo. Under the hood, that's powered by [Wan 3](https://replicate.com/alibaba/wan-3), a state-of-the-art image-to-video model — but Animate's job is to get you a great result without needing to know anything about that, or about prompting AI models well.
 
 - 5-second video, 720p
 - Vertical (9:16), landscape (16:9), or square (1:1) — pick the format for TikTok, Reels, Shorts, YouTube, or desktop
 - Delivered on a private link only you have, usually within 3–4 minutes
 - One-time payment, CA$9.99 — no subscription, no account required
+
+## Simple guided creative generation
+
+You don't need to know how to write a good AI video prompt. After uploading, pick an optional intent — **Bring it to life, Cinematic motion, Transform it, Product commercial, Fantasy, Funny, or Social clip** — and Animate adds real cinematography direction around *your own instruction*, without changing what you actually asked for. A subtle "✨ Cinematic enhancement included" note shows it happened — never a rewritten idea.
 
 ## Try it free first
 
